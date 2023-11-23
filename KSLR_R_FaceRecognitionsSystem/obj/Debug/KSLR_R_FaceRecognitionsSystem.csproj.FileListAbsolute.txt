@@ -1,0 +1,52 @@
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe.config
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csprojAssemblyReference.cache
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.FaceRecognitionSystem.resources
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Properties.Resources.resources
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.GenerateResource.cache
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CopyComplete
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.exe
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+C:\Users\richi\Documents\fibasklsk\itot\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe.config
+C:\Users\richi\Documents\fibasklsk\itot\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe
+C:\Users\richi\Documents\fibasklsk\itot\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+C:\Users\richi\Documents\fibasklsk\itot\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.AssemblyReference.cache
+C:\Users\richi\Documents\fibasklsk\itot\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.FaceRecognitionSystem.resources
+C:\Users\richi\Documents\fibasklsk\itot\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Properties.Resources.resources
+C:\Users\richi\Documents\fibasklsk\itot\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.GenerateResource.cache
+C:\Users\richi\Documents\fibasklsk\itot\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CoreCompileInputs.cache
+C:\Users\richi\Documents\fibasklsk\itot\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CopyComplete
+C:\Users\richi\Documents\fibasklsk\itot\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.exe
+C:\Users\richi\Documents\fibasklsk\itot\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe.config
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\bin\Debug\Guna.UI2.dll
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.AssemblyReference.cache
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.addst.resources
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.FaceRecognitionSystem.resources
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.landing.resources
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.login.resources
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Properties.Resources.resources
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.GenerateResource.cache
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CoreCompileInputs.cache
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CopyComplete
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.exe
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+C:\Users\richi\Documents\fibasklsk\HEHEE\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.scan.resources
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe.config
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.AssemblyReference.cache
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.addst.resources
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.landing.resources
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.login.resources
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Properties.Resources.resources
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.scan.resources
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.GenerateResource.cache
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CoreCompileInputs.cache
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CopyComplete
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.exe
+C:\Users\richi\OneDrive\Desktop\SYStemProj\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.pdb
